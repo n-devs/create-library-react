@@ -17,6 +17,6 @@
     "prettier": "^1.17.0",
     "pretty-quick": "^1.10.0",
     "react-dev-utils": "^9.0.0",
-    "libpack-scripts": "^0.0.3"
+    "libpack-scripts": "^0.0.5"
   }
 }
