@@ -25,7 +25,8 @@
     "component",
     "rollup",
     "babel",
-    "publish"
+    "publish",
+    "libpack-scripts"
   ],
   "dependencies": {
     "chalk": "^2.4.2",
