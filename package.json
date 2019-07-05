@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "main": "index.js",
   "repository": "https://github.com/n-psk/create-library-react.git",
-  "author": "npsk26 <my_nutthapat-26_@hotmail.com>",
+  "author": "n-psk <my_nutthapat-26_@hotmail.com>",
   "license": "MIT",
   "bin": {
     "create-react-library": "index.js"
